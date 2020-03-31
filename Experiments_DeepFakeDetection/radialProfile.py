@@ -8,7 +8,7 @@ def azimuthalAverage(image, center=None):
     image - The 2D image
     center - The [x,y] pixel coordinates used as the center. The default is 
              None, which then uses the center of the image (including 
-             fracitonal pixels).
+             fractional pixels).
     
     """
     # Calculate the indices from the image
